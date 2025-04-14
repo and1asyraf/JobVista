@@ -1,6 +1,6 @@
 # JobVista
 
-![JobVista Logo](JobVista.png)
+![JobVista Logo](JobVistaLogo.png)
 
 JobVista is a web-based application that connects job seekers and employers. Job seekers can upload resumes and explore job opportunities, while employers can browse through resumes to find suitable candidates. Built with **NetBeans** using **Java** and **HTML/CSS**, JobVista simplifies the recruitment process. 
 
